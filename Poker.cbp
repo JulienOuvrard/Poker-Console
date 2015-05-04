@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Poker" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Poker" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Poker" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Brelan.cpp" />
+		<Unit filename="Brelan.h" />
+		<Unit filename="Carre.cpp" />
+		<Unit filename="Carre.h" />
+		<Unit filename="Carte.cpp" />
+		<Unit filename="Carte.h" />
+		<Unit filename="CarteHaute.cpp" />
+		<Unit filename="CarteHaute.h" />
+		<Unit filename="Combinaison.cpp" />
+		<Unit filename="Combinaison.h" />
+		<Unit filename="Couche.cpp" />
+		<Unit filename="Couche.h" />
+		<Unit filename="Couleur.cpp" />
+		<Unit filename="Couleur.h" />
+		<Unit filename="DPaire.cpp" />
+		<Unit filename="DPaire.h" />
+		<Unit filename="EnJeu.cpp" />
+		<Unit filename="EnJeu.h" />
+		<Unit filename="Flambeur.cpp" />
+		<Unit filename="Flambeur.h" />
+		<Unit filename="Flush.cpp" />
+		<Unit filename="Flush.h" />
+		<Unit filename="Full.cpp" />
+		<Unit filename="Full.h" />
+		<Unit filename="Humain.cpp" />
+		<Unit filename="Humain.h" />
+		<Unit filename="Jeu.cpp" />
+		<Unit filename="Jeu.h" />
+		<Unit filename="Joueur.cpp" />
+		<Unit filename="Joueur.h" />
+		<Unit filename="Looser.cpp" />
+		<Unit filename="Looser.h" />
+		<Unit filename="MainC.cpp" />
+		<Unit filename="MainC.h" />
+		<Unit filename="Paire.cpp" />
+		<Unit filename="Paire.h" />
+		<Unit filename="Partie.cpp" />
+		<Unit filename="Partie.h" />
+		<Unit filename="Poulette.cpp" />
+		<Unit filename="Poulette.h" />
+		<Unit filename="Quinte.cpp" />
+		<Unit filename="Quinte.h" />
+		<Unit filename="QuinteF.cpp" />
+		<Unit filename="QuinteF.h" />
+		<Unit filename="QuinteFR.cpp" />
+		<Unit filename="QuinteFR.h" />
+		<Unit filename="Random.cpp" />
+		<Unit filename="Random.h" />
+		<Unit filename="State.cpp" />
+		<Unit filename="State.h" />
+		<Unit filename="Strategie.cpp" />
+		<Unit filename="Strategie.h" />
+		<Unit filename="Valeur.cpp" />
+		<Unit filename="Valeur.h" />
+		<Unit filename="Visitor.cpp" />
+		<Unit filename="Visitor.h" />
+		<Unit filename="VisitorConcret.cpp" />
+		<Unit filename="VisitorConcret.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

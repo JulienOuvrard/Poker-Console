@@ -1,0 +1,3936 @@
+# depslib dependency file v1.0
+1381420513 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1384872281 
+
+1381420373 c:\users\utilisateur\documents\programmes c++\pokercpp\poker\carte.h
+	<iostream>
+	<string>
+	"Couleur.h"
+	"Valeur.h"
+
+1381420373 c:\users\utilisateur\documents\programmes c++\pokercpp\poker\couleur.h
+	<iostream>
+	<string>
+
+1381420373 c:\users\utilisateur\documents\programmes c++\pokercpp\poker\valeur.h
+	<iostream>
+	<string>
+
+1381420427 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker\couleur.cpp
+	<iostream>
+	<string>
+	"Couleur.h"
+
+1382362886 "
+
+1381421633 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker\main.cpp
+	<iostream>
+	<string>
+	"Jeu.h"
+
+1381420455 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker\valeur.cpp
+	<iostream>
+	<string>
+	"Valeur.h"
+
+1381420705 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker\jeu.cpp
+	<iostream>
+	<string>
+	"Jeu.h"
+
+1381421855 c:\users\utilisateur\documents\programmes c++\pokercpp\poker\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"Carte.h"
+
+1381420514 source:c:\users\rien\desktop\poker\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1381420374 c:\users\rien\desktop\poker\carte.h
+	<iostream>
+	<string>
+	"Couleur.h"
+	"Valeur.h"
+
+1381420374 c:\users\rien\desktop\poker\couleur.h
+	<iostream>
+	<string>
+
+1381420374 c:\users\rien\desktop\poker\valeur.h
+	<iostream>
+	<string>
+
+1381420428 source:c:\users\rien\desktop\poker\couleur.cpp
+	<iostream>
+	<string>
+	"Couleur.h"
+
+1381421634 source:c:\users\rien\desktop\poker\main.cpp
+	<iostream>
+	<string>
+	"Jeu.h"
+
+1381421856 c:\users\rien\desktop\poker\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"Carte.h"
+
+1381420456 source:c:\users\rien\desktop\poker\valeur.cpp
+	<iostream>
+	<string>
+	"Valeur.h"
+
+1382023796 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-10-14\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1382023796 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-10-14\carte.h
+	<iostream>
+	<string>
+	"Couleur.h"
+	"Valeur.h"
+
+1382022614 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-10-14\couleur.h
+	<iostream>
+	<string>
+
+1382022614 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-10-14\valeur.h
+	<iostream>
+	<string>
+
+1381420428 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-10-14\couleur.cpp
+	<iostream>
+	<string>
+	"Couleur.h"
+
+1381420456 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-10-14\valeur.cpp
+	<iostream>
+	<string>
+	"Valeur.h"
+
+1382027380 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-10-14\jeu.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Jeu.h"
+	<time.h>
+	"stdlib.h"
+
+1382022614 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-10-14\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"Carte.h"
+
+1382028029 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-10-14\joueur.cpp
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1382027614 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-10-14\joueur.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"MainC.h"
+
+1382022614 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-10-14\mainc.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Carte.h"
+
+1381942669 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-10-14\main.cpp
+	<iostream>
+	<string>
+	"Partie.h"
+
+1382022614 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-10-14\partie.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Joueur.h"
+	"Jeu.h"
+
+1382023870 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-10-14\mainc.cpp
+	<iostream>
+	<string>
+	<vector>
+	"MainC.h"
+
+1382024228 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-10-14\partie.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Partie.h"
+
+1382357862 source:c:\users\rien\desktop\s\poker13-10-14\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1382357862 c:\users\rien\desktop\s\poker13-10-14\carte.h
+	<iostream>
+	<string>
+	"Couleur.h"
+	"Valeur.h"
+
+1382362797 c:\users\rien\desktop\s\poker13-10-14\couleur.h
+	<iostream>
+	<string>
+
+1382363162 c:\users\rien\desktop\s\poker13-10-14\valeur.h
+	<iostream>
+	<string>
+
+1382362884 source:c:\users\rien\desktop\s\poker13-10-14\couleur.cpp
+	<iostream>
+	<string>
+	"Couleur.h"
+
+1382027382 source:c:\users\rien\desktop\s\poker13-10-14\jeu.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Jeu.h"
+	<time.h>
+	"stdlib.h"
+
+1382022616 c:\users\rien\desktop\s\poker13-10-14\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"Carte.h"
+
+1382356905 source:c:\users\rien\desktop\s\poker13-10-14\joueur.cpp
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1382356905 c:\users\rien\desktop\s\poker13-10-14\joueur.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"MainC.h"
+
+1382358307 c:\users\rien\desktop\s\poker13-10-14\mainc.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Carte.h"
+
+1382366641 source:c:\users\rien\desktop\s\poker13-10-14\main.cpp
+	<iostream>
+	<string>
+	"Partie.h"
+
+1382366641 c:\users\rien\desktop\s\poker13-10-14\partie.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Joueur.h"
+	"Jeu.h"
+
+1382365911 source:c:\users\rien\desktop\s\poker13-10-14\mainc.cpp
+	<iostream>
+	<string>
+	<vector>
+	"MainC.h"
+
+1382366584 source:c:\users\rien\desktop\s\poker13-10-14\partie.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Partie.h"
+
+1382363162 source:c:\users\rien\desktop\s\poker13-10-14\valeur.cpp
+	<iostream>
+	<string>
+	"Valeur.h"
+
+1382357862 source:c:\users\rien\desktop\poker21-10-14\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1382357862 c:\users\rien\desktop\poker21-10-14\carte.h
+	<iostream>
+	<string>
+	"Couleur.h"
+	"Valeur.h"
+
+1382362797 c:\users\rien\desktop\poker21-10-14\couleur.h
+	<iostream>
+	<string>
+
+1382363162 c:\users\rien\desktop\poker21-10-14\valeur.h
+	<iostream>
+	<string>
+
+1382362884 source:c:\users\rien\desktop\poker21-10-14\couleur.cpp
+	<iostream>
+	<string>
+	"Couleur.h"
+
+1382027382 source:c:\users\rien\desktop\poker21-10-14\jeu.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Jeu.h"
+	<time.h>
+	"stdlib.h"
+
+1382022616 c:\users\rien\desktop\poker21-10-14\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"Carte.h"
+
+1382516479 source:c:\users\rien\desktop\poker21-10-14\joueur.cpp
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1382516479 c:\users\rien\desktop\poker21-10-14\joueur.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"MainC.h"
+
+1382516479 c:\users\rien\desktop\poker21-10-14\mainc.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Carte.h"
+
+1382517080 source:c:\users\rien\desktop\poker21-10-14\main.cpp
+	<iostream>
+	<string>
+	"Partie.h"
+
+1382516479 c:\users\rien\desktop\poker21-10-14\partie.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Joueur.h"
+	"Jeu.h"
+
+1382517661 source:c:\users\rien\desktop\poker21-10-14\mainc.cpp
+	<iostream>
+	<string>
+	<vector>
+	"MainC.h"
+
+1382517661 source:c:\users\rien\desktop\poker21-10-14\partie.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Partie.h"
+
+1382363162 source:c:\users\rien\desktop\poker21-10-14\valeur.cpp
+	<iostream>
+	<string>
+	"Valeur.h"
+
+1382357864 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker21-10-14\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1382357864 c:\users\utilisateur\documents\programmes c++\pokercpp\poker21-10-14\carte.h
+	<iostream>
+	<string>
+	"Couleur.h"
+	"Valeur.h"
+
+1382362798 c:\users\utilisateur\documents\programmes c++\pokercpp\poker21-10-14\couleur.h
+	<iostream>
+	<string>
+
+1382363164 c:\users\utilisateur\documents\programmes c++\pokercpp\poker21-10-14\valeur.h
+	<iostream>
+	<string>
+
+1382362886 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker21-10-14\couleur.cpp
+	<iostream>
+	<string>
+	"Couleur.h"
+
+1382027382 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker21-10-14\jeu.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Jeu.h"
+	<time.h>
+	"stdlib.h"
+
+1382022616 c:\users\utilisateur\documents\programmes c++\pokercpp\poker21-10-14\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"Carte.h"
+
+1383582953 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker21-10-14\joueur.cpp
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1383582953 c:\users\utilisateur\documents\programmes c++\pokercpp\poker21-10-14\joueur.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"MainC.h"
+
+1383588451 c:\users\utilisateur\documents\programmes c++\pokercpp\poker21-10-14\mainc.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Carte.h"
+
+1383589047 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker21-10-14\mainc.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	"MainC.h"
+
+1383583794 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker21-10-14\partie.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Partie.h"
+
+1383583794 c:\users\utilisateur\documents\programmes c++\pokercpp\poker21-10-14\partie.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Joueur.h"
+	"Jeu.h"
+
+1382363164 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker21-10-14\valeur.cpp
+	<iostream>
+	<string>
+	"Valeur.h"
+
+1383588926 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker21-10-14\main.cpp
+	<iostream>
+	<string>
+	"Partie.h"
+
+1382357864 source:\\pe2\partage commun\poker04-11-14\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1382357864 \\pe2\partage commun\poker04-11-14\carte.h
+	<iostream>
+	<string>
+	"Couleur.h"
+	"Valeur.h"
+
+1382362798 \\pe2\partage commun\poker04-11-14\couleur.h
+	<iostream>
+	<string>
+
+1382363164 \\pe2\partage commun\poker04-11-14\valeur.h
+	<iostream>
+	<string>
+
+1382362886 source:\\pe2\partage commun\poker04-11-14\couleur.cpp
+	<iostream>
+	<string>
+	"Couleur.h"
+
+1382027382 source:\\pe2\partage commun\poker04-11-14\jeu.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Jeu.h"
+	<time.h>
+	"stdlib.h"
+
+1382022616 \\pe2\partage commun\poker04-11-14\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"Carte.h"
+
+1383582954 source:\\pe2\partage commun\poker04-11-14\joueur.cpp
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1383582954 \\pe2\partage commun\poker04-11-14\joueur.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"MainC.h"
+
+1383743629 \\pe2\partage commun\poker04-11-14\mainc.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Carte.h"
+
+1383764004 source:\\pe2\partage commun\poker04-11-14\main.cpp
+	<iostream>
+	<string>
+	"Partie.h"
+	"math.h"
+
+1383583796 \\pe2\partage commun\poker04-11-14\partie.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Joueur.h"
+	"Jeu.h"
+
+1383764288 source:\\pe2\partage commun\poker04-11-14\mainc.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"math.h"
+	<vector>
+	"MainC.h"
+
+1383743684 source:\\pe2\partage commun\poker04-11-14\partie.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Partie.h"
+
+1382363164 source:\\pe2\partage commun\poker04-11-14\valeur.cpp
+	<iostream>
+	<string>
+	"Valeur.h"
+
+1382357864 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-06\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1382357864 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-06\carte.h
+	<iostream>
+	<string>
+	"Couleur.h"
+	"Valeur.h"
+
+1382362798 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-06\couleur.h
+	<iostream>
+	<string>
+
+1382363164 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-06\valeur.h
+	<iostream>
+	<string>
+
+1382362886 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-06\couleur.cpp
+	<iostream>
+	<string>
+	"Couleur.h"
+
+1382027382 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-06\jeu.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Jeu.h"
+	<time.h>
+	"stdlib.h"
+
+1382022616 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-06\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"Carte.h"
+
+1383582954 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-06\joueur.cpp
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1383582954 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-06\joueur.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"MainC.h"
+
+1384006321 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-06\mainc.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Carte.h"
+
+1384258754 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-06\main.cpp
+	<iostream>
+	<string>
+	"Partie.h"
+	"math.h"
+
+1383583796 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-06\partie.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Joueur.h"
+	"Jeu.h"
+
+1384009325 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-06\mainc.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"math.h"
+	<vector>
+	"MainC.h"
+
+1384258822 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-06\partie.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Partie.h"
+
+1382363164 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-06\valeur.cpp
+	<iostream>
+	<string>
+	"Valeur.h"
+
+1382357864 source:c:\users\rien\desktop\poker13-11-06\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1382357864 c:\users\rien\desktop\poker13-11-06\carte.h
+	<iostream>
+	<string>
+	"Couleur.h"
+	"Valeur.h"
+
+1382362798 c:\users\rien\desktop\poker13-11-06\couleur.h
+	<iostream>
+	<string>
+
+1382363164 c:\users\rien\desktop\poker13-11-06\valeur.h
+	<iostream>
+	<string>
+
+1382362886 source:c:\users\rien\desktop\poker13-11-06\couleur.cpp
+	<iostream>
+	<string>
+	"Couleur.h"
+
+1382027382 source:c:\users\rien\desktop\poker13-11-06\jeu.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Jeu.h"
+	<time.h>
+	"stdlib.h"
+
+1382022616 c:\users\rien\desktop\poker13-11-06\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"Carte.h"
+
+1384354008 source:c:\users\rien\desktop\poker13-11-06\main.cpp
+	<iostream>
+	<string>
+	"Partie.h"
+	"math.h"
+	"Humain.h"
+	"IA.h"
+	"Poulette.h"
+	"Flambeur.h"
+	"Strategie.h"
+
+1385040879 .h"
+
+1383583796 c:\users\rien\desktop\poker13-11-06\partie.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Joueur.h"
+	"Jeu.h"
+
+1384261852 c:\users\rien\desktop\poker13-11-06\joueur.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"MainC.h"
+
+1384006322 c:\users\rien\desktop\poker13-11-06\mainc.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Carte.h"
+
+1384009326 source:c:\users\rien\desktop\poker13-11-06\mainc.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"math.h"
+	<vector>
+	"MainC.h"
+
+1384258824 source:c:\users\rien\desktop\poker13-11-06\partie.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Partie.h"
+
+1382363164 source:c:\users\rien\desktop\poker13-11-06\valeur.cpp
+	<iostream>
+	<string>
+	"Valeur.h"
+
+1384353788 source:c:\users\rien\desktop\poker13-11-06\flambeur.cpp
+	<iostream>
+	<string>
+	"Flambeur.h"
+
+1384945584 h"
+
+1384346687 source:c:\users\rien\desktop\poker13-11-06\joueur.cpp
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1384353507 source:c:\users\rien\desktop\poker13-11-06\poulette.cpp
+	<iostream>
+	<string>
+	"Poulette.h"
+
+1384353518 source:c:\users\rien\desktop\poker13-11-06\random.cpp
+	<iostream>
+	<string>
+	"Random.h"
+
+1384354974 source:c:\users\rien\desktop\poker13-11-06\strategie.cpp
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384355027 c:\users\rien\desktop\poker13-11-06\strategie.h
+	<iostream>
+	<string>
+
+1384353759 c:\users\rien\desktop\poker13-11-06\flambeur.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384353498 c:\users\rien\desktop\poker13-11-06\poulette.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384353531 c:\users\rien\desktop\poker13-11-06\random.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384349739 source:c:\users\rien\desktop\poker13-11-06\humain.cpp
+	<iostream>
+	<string>
+	"Humain.h"
+
+1384349739 c:\users\rien\desktop\poker13-11-06\humain.h
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1384354147 source:c:\users\rien\desktop\poker13-11-06\ia.cpp
+	<iostream>
+	<string>
+	"IA.h"
+
+1384353225 c:\users\rien\desktop\poker13-11-06\ia.h
+	<iostream>
+	<string>
+	"Joueur.h"
+	"Strategie.h"
+
+1382357864 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1382357864 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\carte.h
+	<iostream>
+	<string>
+	"Couleur.h"
+	"Valeur.h"
+
+1382362798 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\couleur.h
+	<iostream>
+	<string>
+
+1382363164 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\valeur.h
+	<iostream>
+	<string>
+
+1382362886 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\couleur.cpp
+	<iostream>
+	<string>
+	"Couleur.h"
+
+1384353788 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\flambeur.cpp
+	<iostream>
+	<string>
+	"Flambeur.h"
+
+1384353759 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\flambeur.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384446089 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\strategie.h
+	<iostream>
+	<string>
+
+1384349739 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\humain.cpp
+	<iostream>
+	<string>
+	"Humain.h"
+
+1384793723 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\humain.h
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1384793640 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\joueur.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"MainC.h"
+	"State.h"
+
+1384006322 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\mainc.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Carte.h"
+
+1384445216 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\ia.cpp
+	<iostream>
+	<string>
+	"IA.h"
+
+1384793697 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\ia.h
+	<iostream>
+	<string>
+	"Joueur.h"
+	"Strategie.h"
+
+1382027382 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\jeu.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Jeu.h"
+	<time.h>
+	"stdlib.h"
+
+1382022616 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"Carte.h"
+
+1384793678 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\joueur.cpp
+	<iostream>
+	<string>
+	"Joueur.h"
+	"EnJeu.h"
+	"Couche.h"
+	"Looser.h"
+
+1384445293 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\main.cpp
+	<iostream>
+	<string>
+	"Partie.h"
+	"math.h"
+	"Humain.h"
+	"IA.h"
+	"Poulette.h"
+	"Flambeur.h"
+	"Strategie.h"
+
+1383583796 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\partie.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Joueur.h"
+	"Jeu.h"
+
+1384353498 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\poulette.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384009326 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\mainc.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"math.h"
+	<vector>
+	"MainC.h"
+
+1384258824 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\partie.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Partie.h"
+
+1384444271 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\poulette.cpp
+	<iostream>
+	<string>
+	"Poulette.h"
+
+1384353518 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\random.cpp
+	<iostream>
+	<string>
+	"Random.h"
+
+1384353531 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\random.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384354974 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\strategie.cpp
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1382363164 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\valeur.cpp
+	<iostream>
+	<string>
+	"Valeur.h"
+
+1384447812 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\couche.cpp
+	<iostream>
+	<string>
+	"Couche.h"
+
+1384797098 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\enjeu.cpp
+	<iostream>
+	<string>
+	"EnJeu.h"
+
+1384797080 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\state.h
+	<iostream>
+	<string>
+
+1384447515 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\enjeu.h
+	<iostream>
+	<string>
+	"State.h"
+
+1384447515 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\couche.h
+	<iostream>
+	<string>
+	"State.h"
+
+1384447515 c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\looser.h
+	<iostream>
+	<string>
+	"State.h"
+
+1384793402 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\looser.cpp
+	<iostream>
+	<string>
+	"Looser.h"
+
+1384447217 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\state.cpp
+	<iostream>
+	<string>
+	"State.h"
+
+1384795113 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\brelan.cpp
+
+1384795907 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\carre.cpp
+
+1384795036 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\cartehaute.cpp
+
+1384796114 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\combinaison.cpp
+
+1384795086 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\dpaire.cpp
+
+1384795167 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\flush.cpp
+
+1384795887 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\full.cpp
+
+1384795067 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\paire.cpp
+
+1384795130 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\quinte.cpp
+
+1384795997 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\quintef.cpp
+
+1384796019 source:c:\users\utilisateur\documents\programmes c++\pokercpp\poker13-11-13\quintefr.cpp
+
+1384795114 source:/media/CORSAIR/Poker13-11-18/Brelan.cpp
+
+1384795908 source:/media/CORSAIR/Poker13-11-18/Carre.cpp
+
+1382361464 source:/media/CORSAIR/Poker13-11-18/Carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1382361464 /media/CORSAIR/Poker13-11-18/Carte.h
+	<iostream>
+	<string>
+	"Couleur.h"
+	"Valeur.h"
+
+1382366398 /media/CORSAIR/Poker13-11-18/Couleur.h
+	<iostream>
+	<string>
+
+1382366764 /media/CORSAIR/Poker13-11-18/Valeur.h
+	<iostream>
+	<string>
+
+1384795038 source:/media/CORSAIR/Poker13-11-18/CarteHaute.cpp
+
+1384796116 source:/media/CORSAIR/Poker13-11-18/Combinaison.cpp
+
+1384447814 source:/media/CORSAIR/Poker13-11-18/Couche.cpp
+	<iostream>
+	<string>
+	"Couche.h"
+
+1384447516 /media/CORSAIR/Poker13-11-18/Couche.h
+	<iostream>
+	<string>
+	"State.h"
+
+1384797082 /media/CORSAIR/Poker13-11-18/State.h
+	<iostream>
+	<string>
+
+1382366486 source:/media/CORSAIR/Poker13-11-18/Couleur.cpp
+	<iostream>
+	<string>
+	"Couleur.h"
+
+1384795088 source:/media/CORSAIR/Poker13-11-18/DPaire.cpp
+
+1384797100 source:/media/CORSAIR/Poker13-11-18/EnJeu.cpp
+	<iostream>
+	<string>
+	"EnJeu.h"
+
+1384447516 /media/CORSAIR/Poker13-11-18/EnJeu.h
+	<iostream>
+	<string>
+	"State.h"
+
+1384353790 source:/media/CORSAIR/Poker13-11-18/Flambeur.cpp
+	<iostream>
+	<string>
+	"Flambeur.h"
+
+1384353760 /media/CORSAIR/Poker13-11-18/Flambeur.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384446090 /media/CORSAIR/Poker13-11-18/Strategie.h
+	<iostream>
+	<string>
+
+1384795168 source:/media/CORSAIR/Poker13-11-18/Flush.cpp
+
+1384795888 source:/media/CORSAIR/Poker13-11-18/Full.cpp
+
+1384349740 source:/media/CORSAIR/Poker13-11-18/Humain.cpp
+	<iostream>
+	<string>
+	"Humain.h"
+
+1384793724 /media/CORSAIR/Poker13-11-18/Humain.h
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1384793642 /media/CORSAIR/Poker13-11-18/Joueur.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"MainC.h"
+	"State.h"
+
+1384006322 /media/CORSAIR/Poker13-11-18/MainC.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Carte.h"
+
+1384445218 source:/media/CORSAIR/Poker13-11-18/IA.cpp
+	<iostream>
+	<string>
+	"IA.h"
+
+1384793698 /media/CORSAIR/Poker13-11-18/IA.h
+	<iostream>
+	<string>
+	"Joueur.h"
+	"Strategie.h"
+
+1382030982 source:/media/CORSAIR/Poker13-11-18/Jeu.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Jeu.h"
+	<time.h>
+	"stdlib.h"
+
+1382026216 /media/CORSAIR/Poker13-11-18/Jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"Carte.h"
+
+1384793680 source:/media/CORSAIR/Poker13-11-18/Joueur.cpp
+	<iostream>
+	<string>
+	"Joueur.h"
+	"EnJeu.h"
+	"Couche.h"
+	"Looser.h"
+
+1384447516 /media/CORSAIR/Poker13-11-18/Looser.h
+	<iostream>
+	<string>
+	"State.h"
+
+1384793404 source:/media/CORSAIR/Poker13-11-18/Looser.cpp
+	<iostream>
+	<string>
+	"Looser.h"
+
+1384009326 source:/media/CORSAIR/Poker13-11-18/MainC.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"math.h"
+	<vector>
+	"MainC.h"
+
+1384795068 source:/media/CORSAIR/Poker13-11-18/Paire.cpp
+
+1384258824 source:/media/CORSAIR/Poker13-11-18/Partie.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Partie.h"
+
+1383583796 /media/CORSAIR/Poker13-11-18/Partie.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Joueur.h"
+	"Jeu.h"
+
+1384444272 source:/media/CORSAIR/Poker13-11-18/Poulette.cpp
+	<iostream>
+	<string>
+	"Poulette.h"
+
+1384353500 /media/CORSAIR/Poker13-11-18/Poulette.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384795132 source:/media/CORSAIR/Poker13-11-18/Quinte.cpp
+
+1384795998 source:/media/CORSAIR/Poker13-11-18/QuinteF.cpp
+
+1384796020 source:/media/CORSAIR/Poker13-11-18/QuinteFR.cpp
+
+1384353520 source:/media/CORSAIR/Poker13-11-18/Random.cpp
+	<iostream>
+	<string>
+	"Random.h"
+
+1384353532 /media/CORSAIR/Poker13-11-18/Random.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384447218 source:/media/CORSAIR/Poker13-11-18/State.cpp
+	<iostream>
+	<string>
+	"State.h"
+
+1384354976 source:/media/CORSAIR/Poker13-11-18/Strategie.cpp
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1382366764 source:/media/CORSAIR/Poker13-11-18/Valeur.cpp
+	<iostream>
+	<string>
+	"Valeur.h"
+
+1384445294 source:/media/CORSAIR/Poker13-11-18/main.cpp
+	<iostream>
+	<string>
+	"Partie.h"
+	"math.h"
+	"Humain.h"
+	"IA.h"
+	"Poulette.h"
+	"Flambeur.h"
+	"Strategie.h"
+
+1384795114 source:c:\users\rien\desktop\poker13-11-18\brelan.cpp
+
+1384795908 source:c:\users\rien\desktop\poker13-11-18\carre.cpp
+
+1382357864 source:c:\users\rien\desktop\poker13-11-18\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1382357864 c:\users\rien\desktop\poker13-11-18\carte.h
+	<iostream>
+	<string>
+	"Couleur.h"
+	"Valeur.h"
+
+1382362798 c:\users\rien\desktop\poker13-11-18\couleur.h
+	<iostream>
+	<string>
+
+1382363164 c:\users\rien\desktop\poker13-11-18\valeur.h
+	<iostream>
+	<string>
+
+1384795038 source:c:\users\rien\desktop\poker13-11-18\cartehaute.cpp
+
+1384873838 source:c:\users\rien\desktop\poker13-11-18\combinaison.cpp
+	<iostream>
+	<string>
+	"Combinaison.h"
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+
+1384447814 source:c:\users\rien\desktop\poker13-11-18\couche.cpp
+	<iostream>
+	<string>
+	"Couche.h"
+
+1384447516 c:\users\rien\desktop\poker13-11-18\couche.h
+	<iostream>
+	<string>
+	"State.h"
+
+1384797082 c:\users\rien\desktop\poker13-11-18\state.h
+	<iostream>
+	<string>
+
+1382362886 source:c:\users\rien\desktop\poker13-11-18\couleur.cpp
+	<iostream>
+	<string>
+	"Couleur.h"
+
+1384795088 source:c:\users\rien\desktop\poker13-11-18\dpaire.cpp
+
+1384797100 source:c:\users\rien\desktop\poker13-11-18\enjeu.cpp
+	<iostream>
+	<string>
+	"EnJeu.h"
+
+1384447516 c:\users\rien\desktop\poker13-11-18\enjeu.h
+	<iostream>
+	<string>
+	"State.h"
+
+1384353790 source:c:\users\rien\desktop\poker13-11-18\flambeur.cpp
+	<iostream>
+	<string>
+	"Flambeur.h"
+
+1384353760 c:\users\rien\desktop\poker13-11-18\flambeur.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384446090 c:\users\rien\desktop\poker13-11-18\strategie.h
+	<iostream>
+	<string>
+
+1384795168 source:c:\users\rien\desktop\poker13-11-18\flush.cpp
+
+1384795888 source:c:\users\rien\desktop\poker13-11-18\full.cpp
+
+1384349740 source:c:\users\rien\desktop\poker13-11-18\humain.cpp
+	<iostream>
+	<string>
+	"Humain.h"
+
+1384793724 c:\users\rien\desktop\poker13-11-18\humain.h
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1384793642 c:\users\rien\desktop\poker13-11-18\joueur.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"MainC.h"
+	"State.h"
+
+1384872657 c:\users\rien\desktop\poker13-11-18\mainc.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Carte.h"
+	"Combinaison.h"
+
+1384937657 on.h"
+
+1384445218 source:c:\users\rien\desktop\poker13-11-18\ia.cpp
+	<iostream>
+	<string>
+	"IA.h"
+
+1384793698 c:\users\rien\desktop\poker13-11-18\ia.h
+	<iostream>
+	<string>
+	"Joueur.h"
+	"Strategie.h"
+
+1382027382 source:c:\users\rien\desktop\poker13-11-18\jeu.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Jeu.h"
+	<time.h>
+	"stdlib.h"
+
+1382022616 c:\users\rien\desktop\poker13-11-18\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"Carte.h"
+
+1384871873 source:c:\users\rien\desktop\poker13-11-18\joueur.cpp
+	<iostream>
+	<string>
+	"Joueur.h"
+	"EnJeu.h"
+	"Couche.h"
+	"Looser.h"
+
+1384447516 c:\users\rien\desktop\poker13-11-18\looser.h
+	<iostream>
+	<string>
+	"State.h"
+
+1384793404 source:c:\users\rien\desktop\poker13-11-18\looser.cpp
+	<iostream>
+	<string>
+	"Looser.h"
+
+1384871974 source:c:\users\rien\desktop\poker13-11-18\main.cpp
+	<iostream>
+	<string>
+	"Partie.h"
+	"math.h"
+	"Humain.h"
+	"IA.h"
+	"Poulette.h"
+	"Flambeur.h"
+	"Strategie.h"
+
+1383583796 c:\users\rien\desktop\poker13-11-18\partie.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Joueur.h"
+	"Jeu.h"
+
+1384353500 c:\users\rien\desktop\poker13-11-18\poulette.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384872228 source:c:\users\rien\desktop\poker13-11-18\mainc.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"math.h"
+	<vector>
+	"MainC.h"
+
+1384795068 source:c:\users\rien\desktop\poker13-11-18\paire.cpp
+
+1384258824 source:c:\users\rien\desktop\poker13-11-18\partie.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Partie.h"
+
+1384444272 source:c:\users\rien\desktop\poker13-11-18\poulette.cpp
+	<iostream>
+	<string>
+	"Poulette.h"
+
+1384795132 source:c:\users\rien\desktop\poker13-11-18\quinte.cpp
+
+1384795998 source:c:\users\rien\desktop\poker13-11-18\quintef.cpp
+
+1384796020 source:c:\users\rien\desktop\poker13-11-18\quintefr.cpp
+
+1384353520 source:c:\users\rien\desktop\poker13-11-18\random.cpp
+	<iostream>
+	<string>
+	"Random.h"
+
+1384353532 c:\users\rien\desktop\poker13-11-18\random.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384447218 source:c:\users\rien\desktop\poker13-11-18\state.cpp
+	<iostream>
+	<string>
+	"State.h"
+
+1384354976 source:c:\users\rien\desktop\poker13-11-18\strategie.cpp
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384872281 source:c:\users\rien\desktop\poker13-11-18\valeur.cpp
+	<iostream>
+	<string>
+	"Valeur.h"
+
+1384873838 c:\users\rien\desktop\poker13-11-18\combinaison.h
+	<iostream>
+	<string>
+	<vector>
+	"Carte.h"
+
+1384873005 c:\users\rien\desktop\poker13-11-18\cartehaute.h
+	<iostream>
+	<string>
+	"Combinaison.h"
+
+1384796744 c:\users\rien\desktop\poker13-11-18\paire.h
+	<iostream>
+	<string>
+
+1384796744 c:\users\rien\desktop\poker13-11-18\dpaire.h
+	<iostream>
+	<string>
+
+1384796744 c:\users\rien\desktop\poker13-11-18\brelan.h
+	<iostream>
+	<string>
+
+1384796744 c:\users\rien\desktop\poker13-11-18\quinte.h
+	<iostream>
+	<string>
+
+1384796744 c:\users\rien\desktop\poker13-11-18\flush.h
+	<iostream>
+	<string>
+
+1384796744 c:\users\rien\desktop\poker13-11-18\full.h
+	<iostream>
+	<string>
+
+1384796744 c:\users\rien\desktop\poker13-11-18\carre.h
+	<iostream>
+	<string>
+
+1384796744 c:\users\rien\desktop\poker13-11-18\quintef.h
+	<iostream>
+	<string>
+
+1384873875 c:\users\rien\desktop\poker13-11-18\quintefr.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384933228 source:c:\users\rien\desktop\poker13-11-19\brelan.cpp
+	<iostream>
+	<string>
+	"Brelan.h"
+	"Carte.h"
+	"MainC.h"
+
+1384924645 source:c:\users\rien\desktop\poker13-11-19\carre.cpp
+	<iostream>
+	<string>
+	"Carre.h"
+	"Carte.h"
+	"MainC.h"
+
+1382357864 source:c:\users\rien\desktop\poker13-11-19\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1382357864 c:\users\rien\desktop\poker13-11-19\carte.h
+	<iostream>
+	<string>
+	"Couleur.h"
+	"Valeur.h"
+
+1382362798 c:\users\rien\desktop\poker13-11-19\couleur.h
+	<iostream>
+	<string>
+
+1382363164 c:\users\rien\desktop\poker13-11-19\valeur.h
+	<iostream>
+	<string>
+
+1384933939 source:c:\users\rien\desktop\poker13-11-19\cartehaute.cpp
+	<iostream>
+	<string>
+	"CarteHaute.h"
+	"Carte.h"
+	"MainC.h"
+
+1384945069 source:c:\users\rien\desktop\poker13-11-19\combinaison.cpp
+	<iostream>
+	<string>
+	"Combinaison.h"
+	<algorithm>
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+
+1384944842 c:\users\rien\desktop\poker13-11-19\combinaison.h
+	<iostream>
+	<string>
+	<vector>
+	"Carte.h"
+
+1384937229 c:\users\rien\desktop\poker13-11-19\cartehaute.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937229 c:\users\rien\desktop\poker13-11-19\paire.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937229 c:\users\rien\desktop\poker13-11-19\dpaire.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-19\brelan.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-19\quinte.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-19\flush.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-19\full.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-19\carre.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-19\quintef.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-19\quintefr.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384447814 source:c:\users\rien\desktop\poker13-11-19\couche.cpp
+	<iostream>
+	<string>
+	"Couche.h"
+
+1384447516 c:\users\rien\desktop\poker13-11-19\couche.h
+	<iostream>
+	<string>
+	"State.h"
+
+1384797082 c:\users\rien\desktop\poker13-11-19\state.h
+	<iostream>
+	<string>
+
+1382362886 source:c:\users\rien\desktop\poker13-11-19\couleur.cpp
+	<iostream>
+	<string>
+	"Couleur.h"
+
+1384933641 source:c:\users\rien\desktop\poker13-11-19\dpaire.cpp
+	<iostream>
+	<string>
+	"DPaire.h"
+	"Carte.h"
+	"MainC.h"
+
+1384797100 source:c:\users\rien\desktop\poker13-11-19\enjeu.cpp
+	<iostream>
+	<string>
+	"EnJeu.h"
+
+1384447516 c:\users\rien\desktop\poker13-11-19\enjeu.h
+	<iostream>
+	<string>
+	"State.h"
+
+1384353790 source:c:\users\rien\desktop\poker13-11-19\flambeur.cpp
+	<iostream>
+	<string>
+	"Flambeur.h"
+
+1384353760 c:\users\rien\desktop\poker13-11-19\flambeur.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384446090 c:\users\rien\desktop\poker13-11-19\strategie.h
+	<iostream>
+	<string>
+
+1384932379 source:c:\users\rien\desktop\poker13-11-19\flush.cpp
+	<iostream>
+	<string>
+	"Flush.h"
+	"Carte.h"
+	"MainC.h"
+
+1384924645 source:c:\users\rien\desktop\poker13-11-19\full.cpp
+	<iostream>
+	<string>
+	"Full.h"
+	"Carte.h"
+	"MainC.h"
+
+1384349740 source:c:\users\rien\desktop\poker13-11-19\humain.cpp
+	<iostream>
+	<string>
+	"Humain.h"
+
+1384793724 c:\users\rien\desktop\poker13-11-19\humain.h
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1384793642 c:\users\rien\desktop\poker13-11-19\joueur.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"MainC.h"
+	"State.h"
+
+1384872657 c:\users\rien\desktop\poker13-11-19\mainc.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Carte.h"
+	"Combinaison.h"
+
+1384445218 source:c:\users\rien\desktop\poker13-11-19\ia.cpp
+	<iostream>
+	<string>
+	"IA.h"
+
+1384793698 c:\users\rien\desktop\poker13-11-19\ia.h
+	<iostream>
+	<string>
+	"Joueur.h"
+	"Strategie.h"
+
+1384945069 source:c:\users\rien\desktop\poker13-11-19\jeu.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Jeu.h"
+	<time.h>
+	"stdlib.h"
+
+1382022616 c:\users\rien\desktop\poker13-11-19\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"Carte.h"
+
+1384871873 source:c:\users\rien\desktop\poker13-11-19\joueur.cpp
+	<iostream>
+	<string>
+	"Joueur.h"
+	"EnJeu.h"
+	"Couche.h"
+	"Looser.h"
+
+1384447516 c:\users\rien\desktop\poker13-11-19\looser.h
+	<iostream>
+	<string>
+	"State.h"
+
+1384793404 source:c:\users\rien\desktop\poker13-11-19\looser.cpp
+	<iostream>
+	<string>
+	"Looser.h"
+
+1384871974 source:c:\users\rien\desktop\poker13-11-19\main.cpp
+	<iostream>
+	<string>
+	"Partie.h"
+	"math.h"
+	"Humain.h"
+	"IA.h"
+	"Poulette.h"
+	"Flambeur.h"
+	"Strategie.h"
+
+1383583796 c:\users\rien\desktop\poker13-11-19\partie.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Joueur.h"
+	"Jeu.h"
+
+1384353500 c:\users\rien\desktop\poker13-11-19\poulette.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384945104 source:c:\users\rien\desktop\poker13-11-19\mainc.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"math.h"
+	<vector>
+	"MainC.h"
+	"Combinaison.h"
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+
+1384933677 source:c:\users\rien\desktop\poker13-11-19\paire.cpp
+	<iostream>
+	<string>
+	"Paire.h"
+	"Carte.h"
+	"MainC.h"
+
+1384945144 source:c:\users\rien\desktop\poker13-11-19\partie.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Partie.h"
+
+1384444272 source:c:\users\rien\desktop\poker13-11-19\poulette.cpp
+	<iostream>
+	<string>
+	"Poulette.h"
+
+1384945176 source:c:\users\rien\desktop\poker13-11-19\quinte.cpp
+	<iostream>
+	<string>
+	"Quinte.h"
+	"Carte.h"
+	"MainC.h"
+
+1384353520 source:c:\users\rien\desktop\poker13-11-19\random.cpp
+	<iostream>
+	<string>
+	"Random.h"
+
+1384353532 c:\users\rien\desktop\poker13-11-19\random.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384447218 source:c:\users\rien\desktop\poker13-11-19\state.cpp
+	<iostream>
+	<string>
+	"State.h"
+
+1384354976 source:c:\users\rien\desktop\poker13-11-19\strategie.cpp
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384872281 source:c:\users\rien\desktop\poker13-11-19\valeur.cpp
+	<iostream>
+	<string>
+	"Valeur.h"
+
+1384945220 source:c:\users\rien\desktop\poker13-11-19\quintef.cpp
+	<iostream>
+	<string>
+	"QuinteF.h"
+	"Carte.h"
+	"MainC.h"
+
+1384945220 source:c:\users\rien\desktop\poker13-11-19\quintefr.cpp
+	<iostream>
+	<string>
+	"QuinteFR.h"
+	"Carte.h"
+	"MainC.h"
+
+1384943621 source:c:\users\rien\desktop\poker13-11-19\visitor.cpp
+
+1384933228 source:c:\users\rien\desktop\poker13-11-20\brelan.cpp
+	<iostream>
+	<string>
+	"Brelan.h"
+	"Carte.h"
+	"MainC.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-20\brelan.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1385014104 c:\users\rien\desktop\poker13-11-20\combinaison.h
+	<iostream>
+	<string>
+	<vector>
+	"Carte.h"
+
+1382357864 c:\users\rien\desktop\poker13-11-20\carte.h
+	<iostream>
+	<string>
+	"Couleur.h"
+	"Valeur.h"
+
+1382362798 c:\users\rien\desktop\poker13-11-20\couleur.h
+	<iostream>
+	<string>
+
+1382363164 c:\users\rien\desktop\poker13-11-20\valeur.h
+	<iostream>
+	<string>
+
+1384872657 c:\users\rien\desktop\poker13-11-20\mainc.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Carte.h"
+	"Combinaison.h"
+
+1384924645 source:c:\users\rien\desktop\poker13-11-20\carre.cpp
+	<iostream>
+	<string>
+	"Carre.h"
+	"Carte.h"
+	"MainC.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-20\carre.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1382357864 source:c:\users\rien\desktop\poker13-11-20\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1384933939 source:c:\users\rien\desktop\poker13-11-20\cartehaute.cpp
+	<iostream>
+	<string>
+	"CarteHaute.h"
+	"Carte.h"
+	"MainC.h"
+
+1384937229 c:\users\rien\desktop\poker13-11-20\cartehaute.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384945069 source:c:\users\rien\desktop\poker13-11-20\combinaison.cpp
+	<iostream>
+	<string>
+	"Combinaison.h"
+	<algorithm>
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+
+1384937229 c:\users\rien\desktop\poker13-11-20\paire.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937229 c:\users\rien\desktop\poker13-11-20\dpaire.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-20\quinte.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-20\flush.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-20\full.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-20\quintef.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-20\quintefr.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384447814 source:c:\users\rien\desktop\poker13-11-20\couche.cpp
+	<iostream>
+	<string>
+	"Couche.h"
+
+1385021612 c:\users\rien\desktop\poker13-11-20\couche.h
+	<iostream>
+	<string>
+	"State.h"
+	"Joueur.h"
+
+1385022675 c:\users\rien\desktop\poker13-11-20\state.h
+	<iostream>
+	<string>
+
+1382362886 source:c:\users\rien\desktop\poker13-11-20\couleur.cpp
+	<iostream>
+	<string>
+	"Couleur.h"
+
+1384933641 source:c:\users\rien\desktop\poker13-11-20\dpaire.cpp
+	<iostream>
+	<string>
+	"DPaire.h"
+	"Carte.h"
+	"MainC.h"
+
+1385022552 source:c:\users\rien\desktop\poker13-11-20\enjeu.cpp
+	<iostream>
+	<string>
+	"EnJeu.h"
+
+1385021612 c:\users\rien\desktop\poker13-11-20\enjeu.h
+	<iostream>
+	<string>
+	"State.h"
+	"Joueur.h"
+
+1384353790 source:c:\users\rien\desktop\poker13-11-20\flambeur.cpp
+	<iostream>
+	<string>
+	"Flambeur.h"
+
+1384353760 c:\users\rien\desktop\poker13-11-20\flambeur.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1385022622 c:\users\rien\desktop\poker13-11-20\strategie.h
+	<iostream>
+	<string>
+
+1384932379 source:c:\users\rien\desktop\poker13-11-20\flush.cpp
+	<iostream>
+	<string>
+	"Flush.h"
+	"Carte.h"
+	"MainC.h"
+
+1384924645 source:c:\users\rien\desktop\poker13-11-20\full.cpp
+	<iostream>
+	<string>
+	"Full.h"
+	"Carte.h"
+	"MainC.h"
+
+1384349740 source:c:\users\rien\desktop\poker13-11-20\humain.cpp
+	<iostream>
+	<string>
+	"Humain.h"
+
+1384793724 c:\users\rien\desktop\poker13-11-20\humain.h
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1385022746 c:\users\rien\desktop\poker13-11-20\joueur.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"MainC.h"
+	"State.h"
+	"Strategie.h"
+
+1384445218 source:c:\users\rien\desktop\poker13-11-20\ia.cpp
+	<iostream>
+	<string>
+	"IA.h"
+
+1384793698 c:\users\rien\desktop\poker13-11-20\ia.h
+	<iostream>
+	<string>
+	"Joueur.h"
+	"Strategie.h"
+
+1384945069 source:c:\users\rien\desktop\poker13-11-20\jeu.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Jeu.h"
+	<time.h>
+	"stdlib.h"
+
+1382022616 c:\users\rien\desktop\poker13-11-20\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"Carte.h"
+
+1385022645 source:c:\users\rien\desktop\poker13-11-20\joueur.cpp
+	<iostream>
+	<string>
+	"Joueur.h"
+	"EnJeu.h"
+	"Couche.h"
+	"Looser.h"
+
+1385021612 c:\users\rien\desktop\poker13-11-20\looser.h
+	<iostream>
+	<string>
+	"State.h"
+	"Joueur.h"
+
+1384793404 source:c:\users\rien\desktop\poker13-11-20\looser.cpp
+	<iostream>
+	<string>
+	"Looser.h"
+
+1385022443 source:c:\users\rien\desktop\poker13-11-20\main.cpp
+	<iostream>
+	<string>
+	"Partie.h"
+	"math.h"
+	"Humain.h"
+	"IA.h"
+	"Poulette.h"
+	"Flambeur.h"
+	"Strategie.h"
+
+1383583796 c:\users\rien\desktop\poker13-11-20\partie.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Joueur.h"
+	"Jeu.h"
+
+1384353500 c:\users\rien\desktop\poker13-11-20\poulette.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384933677 source:c:\users\rien\desktop\poker13-11-20\paire.cpp
+	<iostream>
+	<string>
+	"Paire.h"
+	"Carte.h"
+	"MainC.h"
+
+1385018261 source:c:\users\rien\desktop\poker13-11-20\partie.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Partie.h"
+
+1384444272 source:c:\users\rien\desktop\poker13-11-20\poulette.cpp
+	<iostream>
+	<string>
+	"Poulette.h"
+
+1384945176 source:c:\users\rien\desktop\poker13-11-20\quinte.cpp
+	<iostream>
+	<string>
+	"Quinte.h"
+	"Carte.h"
+	"MainC.h"
+
+1384945220 source:c:\users\rien\desktop\poker13-11-20\quintef.cpp
+	<iostream>
+	<string>
+	"QuinteF.h"
+	"Carte.h"
+	"MainC.h"
+
+1384945220 source:c:\users\rien\desktop\poker13-11-20\quintefr.cpp
+	<iostream>
+	<string>
+	"QuinteFR.h"
+	"Carte.h"
+	"MainC.h"
+
+1384353520 source:c:\users\rien\desktop\poker13-11-20\random.cpp
+	<iostream>
+	<string>
+	"Random.h"
+
+1384353532 c:\users\rien\desktop\poker13-11-20\random.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1385022675 source:c:\users\rien\desktop\poker13-11-20\state.cpp
+	<iostream>
+	<string>
+	"State.h"
+
+1385022622 source:c:\users\rien\desktop\poker13-11-20\strategie.cpp
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384872281 source:c:\users\rien\desktop\poker13-11-20\valeur.cpp
+	<iostream>
+	<string>
+	"Valeur.h"
+
+1384943621 source:c:\users\rien\desktop\poker13-11-20\visitor.cpp
+
+1385022104 source:c:\users\rien\desktop\poker13-11-20\visitorconcret.cpp
+	<iostream>
+	<string>
+	"Math.h"
+	"VisitorConcret.h"
+	"MainC.h"
+
+1384945565 c:\users\rien\desktop\poker13-11-20\visitorconcret.h
+	<iostream>
+	<string>
+	<vector>
+	"Carte.h"
+	"Visitor.h"
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+
+1384945584 c:\users\rien\desktop\poker13-11-20\visitor.h
+	<iostream>
+	<string>
+	<vector>
+	"Carte.h"
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+
+1385018134 source:c:\users\rien\desktop\poker13-11-20\mainc.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"math.h"
+	<vector>
+	"MainC.h"
+	"Combinaison.h"
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+	"VisitorConcret.h"
+
+1385393538 ncret.h"
+
+1384933228 source:c:\users\rien\desktop\poker13-11-21\brelan.cpp
+	<iostream>
+	<string>
+	"Brelan.h"
+	"Carte.h"
+	"MainC.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-21\brelan.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1385014104 c:\users\rien\desktop\poker13-11-21\combinaison.h
+	<iostream>
+	<string>
+	<vector>
+	"Carte.h"
+
+1382357864 c:\users\rien\desktop\poker13-11-21\carte.h
+	<iostream>
+	<string>
+	"Couleur.h"
+	"Valeur.h"
+
+1382362798 c:\users\rien\desktop\poker13-11-21\couleur.h
+	<iostream>
+	<string>
+
+1382363164 c:\users\rien\desktop\poker13-11-21\valeur.h
+	<iostream>
+	<string>
+
+1385393538 c:\users\rien\desktop\poker13-11-21\mainc.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Carte.h"
+	"Combinaison.h"
+
+1384924645 source:c:\users\rien\desktop\poker13-11-21\carre.cpp
+	<iostream>
+	<string>
+	"Carre.h"
+	"Carte.h"
+	"MainC.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-21\carre.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1382357864 source:c:\users\rien\desktop\poker13-11-21\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1384933939 source:c:\users\rien\desktop\poker13-11-21\cartehaute.cpp
+	<iostream>
+	<string>
+	"CarteHaute.h"
+	"Carte.h"
+	"MainC.h"
+
+1384937229 c:\users\rien\desktop\poker13-11-21\cartehaute.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384945069 source:c:\users\rien\desktop\poker13-11-21\combinaison.cpp
+	<iostream>
+	<string>
+	"Combinaison.h"
+	<algorithm>
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+
+1384937229 c:\users\rien\desktop\poker13-11-21\paire.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937229 c:\users\rien\desktop\poker13-11-21\dpaire.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-21\quinte.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-21\flush.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-21\full.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-21\quintef.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-21\quintefr.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384447814 source:c:\users\rien\desktop\poker13-11-21\couche.cpp
+	<iostream>
+	<string>
+	"Couche.h"
+
+1385021612 c:\users\rien\desktop\poker13-11-21\couche.h
+	<iostream>
+	<string>
+	"State.h"
+	"Joueur.h"
+
+1385022675 c:\users\rien\desktop\poker13-11-21\state.h
+	<iostream>
+	<string>
+
+1385393538 c:\users\rien\desktop\poker13-11-21\joueur.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"MainC.h"
+	"State.h"
+	"Strategie.h"
+	"Partie.h"
+
+1385383547 c:\users\rien\desktop\poker13-11-21\strategie.h
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1382362886 source:c:\users\rien\desktop\poker13-11-21\couleur.cpp
+	<iostream>
+	<string>
+	"Couleur.h"
+
+1384933641 source:c:\users\rien\desktop\poker13-11-21\dpaire.cpp
+	<iostream>
+	<string>
+	"DPaire.h"
+	"Carte.h"
+	"MainC.h"
+
+1385042147 source:c:\users\rien\desktop\poker13-11-21\enjeu.cpp
+	<iostream>
+	<string>
+	"EnJeu.h"
+
+1385021612 c:\users\rien\desktop\poker13-11-21\enjeu.h
+	<iostream>
+	<string>
+	"State.h"
+	"Joueur.h"
+
+1385385755 source:c:\users\rien\desktop\poker13-11-21\flambeur.cpp
+	<iostream>
+	<string>
+	"Flambeur.h"
+	<stdlib.h>
+	<time.h>
+
+1385383547 c:\users\rien\desktop\poker13-11-21\flambeur.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384932379 source:c:\users\rien\desktop\poker13-11-21\flush.cpp
+	<iostream>
+	<string>
+	"Flush.h"
+	"Carte.h"
+	"MainC.h"
+
+1384924645 source:c:\users\rien\desktop\poker13-11-21\full.cpp
+	<iostream>
+	<string>
+	"Full.h"
+	"Carte.h"
+	"MainC.h"
+
+1385397293 source:c:\users\rien\desktop\poker13-11-21\humain.cpp
+	<iostream>
+	<string>
+	"Humain.h"
+
+1385383547 c:\users\rien\desktop\poker13-11-21\humain.h
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1385396701 source:c:\users\rien\desktop\poker13-11-21\jeu.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Jeu.h"
+	<time.h>
+	"stdlib.h"
+
+1382022616 c:\users\rien\desktop\poker13-11-21\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"Carte.h"
+
+1385398070 source:c:\users\rien\desktop\poker13-11-21\joueur.cpp
+	<iostream>
+	<string>
+	"Joueur.h"
+	"EnJeu.h"
+	"Couche.h"
+	"Looser.h"
+
+1385021612 c:\users\rien\desktop\poker13-11-21\looser.h
+	<iostream>
+	<string>
+	"State.h"
+	"Joueur.h"
+
+1384793404 source:c:\users\rien\desktop\poker13-11-21\looser.cpp
+	<iostream>
+	<string>
+	"Looser.h"
+
+1385385319 source:c:\users\rien\desktop\poker13-11-21\main.cpp
+	<iostream>
+	<string>
+	"Partie.h"
+	"math.h"
+	"Humain.h"
+	"Poulette.h"
+	"Flambeur.h"
+	"Random.h"
+	"Strategie.h"
+	<stdlib.h>
+	<time.h>
+
+1385392499 c:\users\rien\desktop\poker13-11-21\partie.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Joueur.h"
+	"Jeu.h"
+
+1385030096 c:\users\rien\desktop\poker13-11-21\ia.h
+	<iostream>
+	<string>
+	"Joueur.h"
+	"Strategie.h"
+
+1385383547 c:\users\rien\desktop\poker13-11-21\poulette.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1385393538 source:c:\users\rien\desktop\poker13-11-21\mainc.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"math.h"
+	<vector>
+	"MainC.h"
+	"Combinaison.h"
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+	"VisitorConcret.h"
+
+1384945565 c:\users\rien\desktop\poker13-11-21\visitorconcret.h
+	<iostream>
+	<string>
+	<vector>
+	"Carte.h"
+	"Visitor.h"
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+
+1384945584 c:\users\rien\desktop\poker13-11-21\visitor.h
+	<iostream>
+	<string>
+	<vector>
+	"Carte.h"
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+
+1384933677 source:c:\users\rien\desktop\poker13-11-21\paire.cpp
+	<iostream>
+	<string>
+	"Paire.h"
+	"Carte.h"
+	"MainC.h"
+
+1385398356 source:c:\users\rien\desktop\poker13-11-21\partie.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Partie.h"
+
+1385385382 source:c:\users\rien\desktop\poker13-11-21\poulette.cpp
+	<iostream>
+	<string>
+	"Poulette.h"
+	<stdlib.h>
+	<time.h>
+
+1384945176 source:c:\users\rien\desktop\poker13-11-21\quinte.cpp
+	<iostream>
+	<string>
+	"Quinte.h"
+	"Carte.h"
+	"MainC.h"
+
+1384945220 source:c:\users\rien\desktop\poker13-11-21\quintef.cpp
+	<iostream>
+	<string>
+	"QuinteF.h"
+	"Carte.h"
+	"MainC.h"
+
+1384945220 source:c:\users\rien\desktop\poker13-11-21\quintefr.cpp
+	<iostream>
+	<string>
+	"QuinteFR.h"
+	"Carte.h"
+	"MainC.h"
+
+1385385382 source:c:\users\rien\desktop\poker13-11-21\random.cpp
+	<iostream>
+	<string>
+	"Random.h"
+	<stdlib.h>
+	<time.h>
+
+1385383547 c:\users\rien\desktop\poker13-11-21\random.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1385022675 source:c:\users\rien\desktop\poker13-11-21\state.cpp
+	<iostream>
+	<string>
+	"State.h"
+
+1385040879 source:c:\users\rien\desktop\poker13-11-21\strategie.cpp
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384872281 source:c:\users\rien\desktop\poker13-11-21\valeur.cpp
+	<iostream>
+	<string>
+	"Valeur.h"
+
+1384943621 source:c:\users\rien\desktop\poker13-11-21\visitor.cpp
+
+1385032548 source:c:\users\rien\desktop\poker13-11-21\visitorconcret.cpp
+	<iostream>
+	<string>
+	"Math.h"
+	"VisitorConcret.h"
+	"MainC.h"
+
+1385030096 source:c:\users\rien\desktop\poker13-11-21\ia.cpp
+	<iostream>
+	<string>
+	"IA.h"
+	"Poulette.h"
+
+1384933228 source:c:\users\rien\desktop\poker13-11-25\brelan.cpp
+	<iostream>
+	<string>
+	"Brelan.h"
+	"Carte.h"
+	"MainC.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-25\brelan.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1385014104 c:\users\rien\desktop\poker13-11-25\combinaison.h
+	<iostream>
+	<string>
+	<vector>
+	"Carte.h"
+
+1382357864 c:\users\rien\desktop\poker13-11-25\carte.h
+	<iostream>
+	<string>
+	"Couleur.h"
+	"Valeur.h"
+
+1382362798 c:\users\rien\desktop\poker13-11-25\couleur.h
+	<iostream>
+	<string>
+
+1382363164 c:\users\rien\desktop\poker13-11-25\valeur.h
+	<iostream>
+	<string>
+
+1385393538 c:\users\rien\desktop\poker13-11-25\mainc.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Carte.h"
+	"Combinaison.h"
+
+1384924645 source:c:\users\rien\desktop\poker13-11-25\carre.cpp
+	<iostream>
+	<string>
+	"Carre.h"
+	"Carte.h"
+	"MainC.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-25\carre.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1382357864 source:c:\users\rien\desktop\poker13-11-25\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1384933939 source:c:\users\rien\desktop\poker13-11-25\cartehaute.cpp
+	<iostream>
+	<string>
+	"CarteHaute.h"
+	"Carte.h"
+	"MainC.h"
+
+1384937229 c:\users\rien\desktop\poker13-11-25\cartehaute.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384945069 source:c:\users\rien\desktop\poker13-11-25\combinaison.cpp
+	<iostream>
+	<string>
+	"Combinaison.h"
+	<algorithm>
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+
+1384937229 c:\users\rien\desktop\poker13-11-25\paire.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937229 c:\users\rien\desktop\poker13-11-25\dpaire.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-25\quinte.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-25\flush.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-25\full.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-25\quintef.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937657 c:\users\rien\desktop\poker13-11-25\quintefr.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1385487259 source:c:\users\rien\desktop\poker13-11-25\couche.cpp
+	<iostream>
+	<string>
+	"Couche.h"
+
+1385487227 c:\users\rien\desktop\poker13-11-25\couche.h
+	<iostream>
+	<string>
+	"State.h"
+	"Joueur.h"
+
+1385487227 c:\users\rien\desktop\poker13-11-25\state.h
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1385486826 c:\users\rien\desktop\poker13-11-25\joueur.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"MainC.h"
+	"State.h"
+	"Strategie.h"
+	"Partie.h"
+
+1385383547 c:\users\rien\desktop\poker13-11-25\strategie.h
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1385483744 c:\users\rien\desktop\poker13-11-25\partie.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Joueur.h"
+	"Jeu.h"
+
+1382022616 c:\users\rien\desktop\poker13-11-25\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"Carte.h"
+
+1382362886 source:c:\users\rien\desktop\poker13-11-25\couleur.cpp
+	<iostream>
+	<string>
+	"Couleur.h"
+
+1384933641 source:c:\users\rien\desktop\poker13-11-25\dpaire.cpp
+	<iostream>
+	<string>
+	"DPaire.h"
+	"Carte.h"
+	"MainC.h"
+
+1385487259 source:c:\users\rien\desktop\poker13-11-25\enjeu.cpp
+	<iostream>
+	<string>
+	"EnJeu.h"
+
+1385487227 c:\users\rien\desktop\poker13-11-25\enjeu.h
+	<iostream>
+	<string>
+	"State.h"
+	"Joueur.h"
+
+1385385755 source:c:\users\rien\desktop\poker13-11-25\flambeur.cpp
+	<iostream>
+	<string>
+	"Flambeur.h"
+	<stdlib.h>
+	<time.h>
+
+1385383547 c:\users\rien\desktop\poker13-11-25\flambeur.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384932379 source:c:\users\rien\desktop\poker13-11-25\flush.cpp
+	<iostream>
+	<string>
+	"Flush.h"
+	"Carte.h"
+	"MainC.h"
+
+1384924645 source:c:\users\rien\desktop\poker13-11-25\full.cpp
+	<iostream>
+	<string>
+	"Full.h"
+	"Carte.h"
+	"MainC.h"
+
+1385486309 source:c:\users\rien\desktop\poker13-11-25\humain.cpp
+	<iostream>
+	<string>
+	"Humain.h"
+
+1385485676 c:\users\rien\desktop\poker13-11-25\humain.h
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1385396701 source:c:\users\rien\desktop\poker13-11-25\jeu.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Jeu.h"
+	<time.h>
+	"stdlib.h"
+
+1385491875 source:c:\users\rien\desktop\poker13-11-25\joueur.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"Joueur.h"
+	"EnJeu.h"
+	"Couche.h"
+	"Looser.h"
+	"Poulette.h"
+	"Flambeur.h"
+	"Random.h"
+
+1385487227 c:\users\rien\desktop\poker13-11-25\looser.h
+	<iostream>
+	<string>
+	"State.h"
+	"Joueur.h"
+
+1385487259 source:c:\users\rien\desktop\poker13-11-25\looser.cpp
+	<iostream>
+	<string>
+	"Looser.h"
+
+1385492033 source:c:\users\rien\desktop\poker13-11-25\main.cpp
+	<iostream>
+	<string>
+	"Partie.h"
+	"math.h"
+	"Humain.h"
+	"Poulette.h"
+	"Flambeur.h"
+	"Random.h"
+	"Strategie.h"
+	<stdlib.h>
+	<time.h>
+
+1385383547 c:\users\rien\desktop\poker13-11-25\poulette.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1385484187 c:\users\rien\desktop\poker13-11-25\random.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1385393538 source:c:\users\rien\desktop\poker13-11-25\mainc.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"math.h"
+	<vector>
+	"MainC.h"
+	"Combinaison.h"
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+	"VisitorConcret.h"
+
+1384945565 c:\users\rien\desktop\poker13-11-25\visitorconcret.h
+	<iostream>
+	<string>
+	<vector>
+	"Carte.h"
+	"Visitor.h"
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+
+1384945584 c:\users\rien\desktop\poker13-11-25\visitor.h
+	<iostream>
+	<string>
+	<vector>
+	"Carte.h"
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+
+1384933677 source:c:\users\rien\desktop\poker13-11-25\paire.cpp
+	<iostream>
+	<string>
+	"Paire.h"
+	"Carte.h"
+	"MainC.h"
+
+1385487682 source:c:\users\rien\desktop\poker13-11-25\partie.cpp
+	<iostream>
+	<string>
+	<vector>
+	<typeinfo>
+	"Partie.h"
+	"Humain.h"
+
+1385385382 source:c:\users\rien\desktop\poker13-11-25\poulette.cpp
+	<iostream>
+	<string>
+	"Poulette.h"
+	<stdlib.h>
+	<time.h>
+
+1384945176 source:c:\users\rien\desktop\poker13-11-25\quinte.cpp
+	<iostream>
+	<string>
+	"Quinte.h"
+	"Carte.h"
+	"MainC.h"
+
+1384945220 source:c:\users\rien\desktop\poker13-11-25\quintef.cpp
+	<iostream>
+	<string>
+	"QuinteF.h"
+	"Carte.h"
+	"MainC.h"
+
+1384945220 source:c:\users\rien\desktop\poker13-11-25\quintefr.cpp
+	<iostream>
+	<string>
+	"QuinteFR.h"
+	"Carte.h"
+	"MainC.h"
+
+1385385382 source:c:\users\rien\desktop\poker13-11-25\random.cpp
+	<iostream>
+	<string>
+	"Random.h"
+	<stdlib.h>
+	<time.h>
+
+1385486809 source:c:\users\rien\desktop\poker13-11-25\state.cpp
+	<iostream>
+	<string>
+	"State.h"
+
+1385040879 source:c:\users\rien\desktop\poker13-11-25\strategie.cpp
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384872281 source:c:\users\rien\desktop\poker13-11-25\valeur.cpp
+	<iostream>
+	<string>
+	"Valeur.h"
+
+1384943621 source:c:\users\rien\desktop\poker13-11-25\visitor.cpp
+
+1385032548 source:c:\users\rien\desktop\poker13-11-25\visitorconcret.cpp
+	<iostream>
+	<string>
+	"Math.h"
+	"VisitorConcret.h"
+	"MainC.h"
+
+1385496118 source:c:\users\rien\desktop\poker13-11-25\poker.rc
+	"poker.h"
+
+1385496037 c:\users\rien\desktop\poker13-11-25\poker.h
+
+1384933230 source:/comptes/E130189K/Desktop/Poker13-11-26/Brelan.cpp
+	<iostream>
+	<string>
+	"Brelan.h"
+	"Carte.h"
+	"MainC.h"
+
+1384937658 /comptes/E130189K/Desktop/Poker13-11-26/Brelan.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1385014106 /comptes/E130189K/Desktop/Poker13-11-26/Combinaison.h
+	<iostream>
+	<string>
+	<vector>
+	"Carte.h"
+
+1382361464 /comptes/E130189K/Desktop/Poker13-11-26/Carte.h
+	<iostream>
+	<string>
+	"Couleur.h"
+	"Valeur.h"
+
+1382366398 /comptes/E130189K/Desktop/Poker13-11-26/Couleur.h
+	<iostream>
+	<string>
+
+1382366764 /comptes/E130189K/Desktop/Poker13-11-26/Valeur.h
+	<iostream>
+	<string>
+
+1385393540 /comptes/E130189K/Desktop/Poker13-11-26/MainC.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Carte.h"
+	"Combinaison.h"
+
+1384924646 source:/comptes/E130189K/Desktop/Poker13-11-26/Carre.cpp
+	<iostream>
+	<string>
+	"Carre.h"
+	"Carte.h"
+	"MainC.h"
+
+1384937658 /comptes/E130189K/Desktop/Poker13-11-26/Carre.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1382361464 source:/comptes/E130189K/Desktop/Poker13-11-26/Carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1384933940 source:/comptes/E130189K/Desktop/Poker13-11-26/CarteHaute.cpp
+	<iostream>
+	<string>
+	"CarteHaute.h"
+	"Carte.h"
+	"MainC.h"
+
+1384937230 /comptes/E130189K/Desktop/Poker13-11-26/CarteHaute.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384945070 source:/comptes/E130189K/Desktop/Poker13-11-26/Combinaison.cpp
+	<iostream>
+	<string>
+	"Combinaison.h"
+	<algorithm>
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+
+1384937230 /comptes/E130189K/Desktop/Poker13-11-26/Paire.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937230 /comptes/E130189K/Desktop/Poker13-11-26/DPaire.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937658 /comptes/E130189K/Desktop/Poker13-11-26/Quinte.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937658 /comptes/E130189K/Desktop/Poker13-11-26/Flush.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937658 /comptes/E130189K/Desktop/Poker13-11-26/Full.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937658 /comptes/E130189K/Desktop/Poker13-11-26/QuinteF.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937658 /comptes/E130189K/Desktop/Poker13-11-26/QuinteFR.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1385545262 source:/comptes/E130189K/Desktop/Poker13-11-26/Couche.cpp
+	<iostream>
+	<string>
+	"Couche.h"
+
+1385544523 /comptes/E130189K/Desktop/Poker13-11-26/Couche.h
+	<iostream>
+	<string>
+	"State.h"
+	"Joueur.h"
+
+1385544523 /comptes/E130189K/Desktop/Poker13-11-26/State.h
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1385544523 /comptes/E130189K/Desktop/Poker13-11-26/Joueur.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"MainC.h"
+	"State.h"
+	"Strategie.h"
+	"Partie.h"
+
+1385383548 /comptes/E130189K/Desktop/Poker13-11-26/Strategie.h
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1385483746 /comptes/E130189K/Desktop/Poker13-11-26/Partie.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Joueur.h"
+	"Jeu.h"
+
+1382026216 /comptes/E130189K/Desktop/Poker13-11-26/Jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"Carte.h"
+
+1382366486 source:/comptes/E130189K/Desktop/Poker13-11-26/Couleur.cpp
+	<iostream>
+	<string>
+	"Couleur.h"
+
+1384933642 source:/comptes/E130189K/Desktop/Poker13-11-26/DPaire.cpp
+	<iostream>
+	<string>
+	"DPaire.h"
+	"Carte.h"
+	"MainC.h"
+
+1385544523 source:/comptes/E130189K/Desktop/Poker13-11-26/EnJeu.cpp
+	<iostream>
+	<string>
+	"EnJeu.h"
+
+1385544523 /comptes/E130189K/Desktop/Poker13-11-26/EnJeu.h
+	<iostream>
+	<string>
+	"State.h"
+	"Joueur.h"
+
+1385385756 source:/comptes/E130189K/Desktop/Poker13-11-26/Flambeur.cpp
+	<iostream>
+	<string>
+	"Flambeur.h"
+	<stdlib.h>
+	<time.h>
+
+1385383548 /comptes/E130189K/Desktop/Poker13-11-26/Flambeur.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384932380 source:/comptes/E130189K/Desktop/Poker13-11-26/Flush.cpp
+	<iostream>
+	<string>
+	"Flush.h"
+	"Carte.h"
+	"MainC.h"
+
+1384924646 source:/comptes/E130189K/Desktop/Poker13-11-26/Full.cpp
+	<iostream>
+	<string>
+	"Full.h"
+	"Carte.h"
+	"MainC.h"
+
+1385486310 source:/comptes/E130189K/Desktop/Poker13-11-26/Humain.cpp
+	<iostream>
+	<string>
+	"Humain.h"
+
+1385485678 /comptes/E130189K/Desktop/Poker13-11-26/Humain.h
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1385396702 source:/comptes/E130189K/Desktop/Poker13-11-26/Jeu.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Jeu.h"
+	<time.h>
+	"stdlib.h"
+
+1385544533 source:/comptes/E130189K/Desktop/Poker13-11-26/Joueur.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"Joueur.h"
+	"EnJeu.h"
+	"Couche.h"
+	"Looser.h"
+	"Poulette.h"
+	"Flambeur.h"
+	"Random.h"
+
+1385544523 /comptes/E130189K/Desktop/Poker13-11-26/Looser.h
+	<iostream>
+	<string>
+	"State.h"
+	"Joueur.h"
+
+1385383548 /comptes/E130189K/Desktop/Poker13-11-26/Poulette.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1385484188 /comptes/E130189K/Desktop/Poker13-11-26/Random.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1385544523 source:/comptes/E130189K/Desktop/Poker13-11-26/Looser.cpp
+	<iostream>
+	<string>
+	"Looser.h"
+
+1385393540 source:/comptes/E130189K/Desktop/Poker13-11-26/MainC.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"math.h"
+	<vector>
+	"MainC.h"
+	"Combinaison.h"
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+	"VisitorConcret.h"
+
+1384945566 /comptes/E130189K/Desktop/Poker13-11-26/VisitorConcret.h
+	<iostream>
+	<string>
+	<vector>
+	"Carte.h"
+	"Visitor.h"
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+
+1384945586 /comptes/E130189K/Desktop/Poker13-11-26/Visitor.h
+	<iostream>
+	<string>
+	<vector>
+	"Carte.h"
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+
+1384933678 source:/comptes/E130189K/Desktop/Poker13-11-26/Paire.cpp
+	<iostream>
+	<string>
+	"Paire.h"
+	"Carte.h"
+	"MainC.h"
+
+1385544523 source:/comptes/E130189K/Desktop/Poker13-11-26/Partie.cpp
+	<iostream>
+	<string>
+	<vector>
+	<typeinfo>
+	"Partie.h"
+	"Humain.h"
+
+1385385384 source:/comptes/E130189K/Desktop/Poker13-11-26/Poulette.cpp
+	<iostream>
+	<string>
+	"Poulette.h"
+	<stdlib.h>
+	<time.h>
+
+1384945178 source:/comptes/E130189K/Desktop/Poker13-11-26/Quinte.cpp
+	<iostream>
+	<string>
+	"Quinte.h"
+	"Carte.h"
+	"MainC.h"
+
+1384945222 source:/comptes/E130189K/Desktop/Poker13-11-26/QuinteF.cpp
+	<iostream>
+	<string>
+	"QuinteF.h"
+	"Carte.h"
+	"MainC.h"
+
+1384945222 source:/comptes/E130189K/Desktop/Poker13-11-26/QuinteFR.cpp
+	<iostream>
+	<string>
+	"QuinteFR.h"
+	"Carte.h"
+	"MainC.h"
+
+1385385384 source:/comptes/E130189K/Desktop/Poker13-11-26/Random.cpp
+	<iostream>
+	<string>
+	"Random.h"
+	<stdlib.h>
+	<time.h>
+
+1385486810 source:/comptes/E130189K/Desktop/Poker13-11-26/State.cpp
+	<iostream>
+	<string>
+	"State.h"
+
+1385040880 source:/comptes/E130189K/Desktop/Poker13-11-26/Strategie.cpp
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1384872282 source:/comptes/E130189K/Desktop/Poker13-11-26/Valeur.cpp
+	<iostream>
+	<string>
+	"Valeur.h"
+
+1384943622 source:/comptes/E130189K/Desktop/Poker13-11-26/Visitor.cpp
+
+1385542836 source:/comptes/E130189K/Desktop/Poker13-11-26/VisitorConcret.cpp
+	<iostream>
+	<string>
+	"math.h"
+	"VisitorConcret.h"
+	"MainC.h"
+
+1385492034 source:/comptes/E130189K/Desktop/Poker13-11-26/main.cpp
+	<iostream>
+	<string>
+	"Partie.h"
+	"math.h"
+	"Humain.h"
+	"Poulette.h"
+	"Flambeur.h"
+	"Random.h"
+	"Strategie.h"
+	<stdlib.h>
+	<time.h>
+
+1385549454 source:x:\poker13-11-27\cartehaute.cpp
+	<iostream>
+	<string>
+	"CarteHaute.h"
+	"Carte.h"
+	"MainC.h"
+
+1384937230 x:\poker13-11-27\cartehaute.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1385549454 x:\poker13-11-27\combinaison.h
+	<iostream>
+	<vector>
+	"Carte.h"
+
+1385549273 x:\poker13-11-27\carte.h
+	<iostream>
+	"Couleur.h"
+	"Valeur.h"
+
+1382362798 x:\poker13-11-27\couleur.h
+	<iostream>
+	<string>
+
+1385551363 x:\poker13-11-27\valeur.h
+	<iostream>
+	<string>
+
+1385393540 x:\poker13-11-27\mainc.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Carte.h"
+	"Combinaison.h"
+
+1385549454 source:x:\poker13-11-27\combinaison.cpp
+	<iostream>
+	<string>
+	"Combinaison.h"
+
+1384937230 x:\poker13-11-27\paire.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937230 x:\poker13-11-27\dpaire.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937658 x:\poker13-11-27\brelan.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937658 x:\poker13-11-27\quinte.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937658 x:\poker13-11-27\flush.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937658 x:\poker13-11-27\full.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937658 x:\poker13-11-27\carre.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937658 x:\poker13-11-27\quintef.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1384937658 x:\poker13-11-27\quintefr.h
+	<iostream>
+	<string>
+	<vector>
+	"Combinaison.h"
+
+1385550233 source:x:\poker13-11-27\couche.cpp
+	<iostream>
+	<string>
+	"Couche.h"
+
+1385544522 x:\poker13-11-27\couche.h
+	<iostream>
+	<string>
+	"State.h"
+	"Joueur.h"
+
+1385544522 x:\poker13-11-27\state.h
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1385551177 x:\poker13-11-27\joueur.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"MainC.h"
+	"State.h"
+	"Strategie.h"
+	"Partie.h"
+
+1385383548 x:\poker13-11-27\strategie.h
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1385483746 x:\poker13-11-27\partie.h
+	<iostream>
+	<vector>
+	<array>
+	<string>
+	"Joueur.h"
+	"Jeu.h"
+
+1382022616 x:\poker13-11-27\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"Carte.h"
+
+1385550234 source:x:\poker13-11-27\couleur.cpp
+	<iostream>
+	<string>
+	"Couleur.h"
+
+1385550234 source:x:\poker13-11-27\dpaire.cpp
+	<iostream>
+	<string>
+	"DPaire.h"
+	"Carte.h"
+	"MainC.h"
+
+1385550234 source:x:\poker13-11-27\enjeu.cpp
+	<iostream>
+	<string>
+	"EnJeu.h"
+
+1385544522 x:\poker13-11-27\enjeu.h
+	<iostream>
+	<string>
+	"State.h"
+	"Joueur.h"
+
+1385550234 source:x:\poker13-11-27\flambeur.cpp
+	<iostream>
+	<string>
+	"Flambeur.h"
+	<stdlib.h>
+	<time.h>
+
+1385383548 x:\poker13-11-27\flambeur.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1385550234 source:x:\poker13-11-27\flush.cpp
+	<iostream>
+	<string>
+	"Flush.h"
+	"Carte.h"
+	"MainC.h"
+
+1385550234 source:x:\poker13-11-27\full.cpp
+	<iostream>
+	<string>
+	"Full.h"
+	"Carte.h"
+	"MainC.h"
+
+1385550234 source:x:\poker13-11-27\humain.cpp
+	<iostream>
+	<string>
+	"Humain.h"
+
+1385485678 x:\poker13-11-27\humain.h
+	<iostream>
+	<string>
+	"Joueur.h"
+
+1385550234 source:x:\poker13-11-27\jeu.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Jeu.h"
+	<time.h>
+	"stdlib.h"
+
+1385551178 source:x:\poker13-11-27\joueur.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"Joueur.h"
+	"EnJeu.h"
+	"Couche.h"
+	"Looser.h"
+	"Poulette.h"
+	"Flambeur.h"
+	"Random.h"
+
+1385544522 x:\poker13-11-27\looser.h
+	<iostream>
+	<string>
+	"State.h"
+	"Joueur.h"
+
+1385383548 x:\poker13-11-27\poulette.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1385484188 x:\poker13-11-27\random.h
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1385551177 source:x:\poker13-11-27\looser.cpp
+	<iostream>
+	<string>
+	"Looser.h"
+
+1385545282 source:x:\poker13-11-27\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"Partie.h"
+	"Humain.h"
+
+1385551177 source:x:\poker13-11-27\mainc.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"math.h"
+	<vector>
+	"MainC.h"
+	"Combinaison.h"
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+	"VisitorConcret.h"
+
+1384945566 x:\poker13-11-27\visitorconcret.h
+	<iostream>
+	<string>
+	<vector>
+	"Carte.h"
+	"Visitor.h"
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+
+1384945586 x:\poker13-11-27\visitor.h
+	<iostream>
+	<string>
+	<vector>
+	"Carte.h"
+	"CarteHaute.h"
+	"Paire.h"
+	"DPaire.h"
+	"Brelan.h"
+	"Quinte.h"
+	"Flush.h"
+	"Full.h"
+	"Carre.h"
+	"QuinteF.h"
+	"QuinteFR.h"
+
+1385551177 source:x:\poker13-11-27\paire.cpp
+	<iostream>
+	<string>
+	"Paire.h"
+	"Carte.h"
+	"MainC.h"
+
+1385552416 source:x:\poker13-11-27\partie.cpp
+	<iostream>
+	<string>
+	<vector>
+	<typeinfo>
+	"Partie.h"
+	"Humain.h"
+
+1385551177 source:x:\poker13-11-27\poulette.cpp
+	<iostream>
+	<string>
+	"Poulette.h"
+	<stdlib.h>
+	<time.h>
+
+1385551177 source:x:\poker13-11-27\quinte.cpp
+	<iostream>
+	<string>
+	"Quinte.h"
+	"Carte.h"
+	"MainC.h"
+
+1385551178 source:x:\poker13-11-27\quintef.cpp
+	<iostream>
+	<string>
+	"QuinteF.h"
+	"Carte.h"
+	"MainC.h"
+
+1385551178 source:x:\poker13-11-27\quintefr.cpp
+	<iostream>
+	<string>
+	"QuinteFR.h"
+	"Carte.h"
+	"MainC.h"
+
+1385551178 source:x:\poker13-11-27\random.cpp
+	<iostream>
+	<string>
+	"Random.h"
+	<stdlib.h>
+	<time.h>
+
+1385551178 source:x:\poker13-11-27\state.cpp
+	<iostream>
+	<string>
+	"State.h"
+
+1385551178 source:x:\poker13-11-27\strategie.cpp
+	<iostream>
+	<string>
+	"Strategie.h"
+
+1385551749 source:x:\poker13-11-27\valeur.cpp
+	<iostream>
+	<string>
+	"Valeur.h"
+
+1385551749 source:x:\poker13-11-27\visitor.cpp
+	<iostream>
+	<string>
+	"Visitor.h"
+
+1385551749 source:x:\poker13-11-27\visitorconcret.cpp
+	<iostream>
+	<string>
+	"math.h"
+	"VisitorConcret.h"
+	"MainC.h"
+
+1385549273 source:x:\poker13-11-27\brelan.cpp
+	<iostream>
+	<string>
+	"Brelan.h"
+	"Carte.h"
+	"MainC.h"
+
+1385549273 source:x:\poker13-11-27\carre.cpp
+	<iostream>
+	<string>
+	"Carre.h"
+	"Carte.h"
+	"MainC.h"
+
+1385549454 source:x:\poker13-11-27\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
